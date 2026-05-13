@@ -14,7 +14,7 @@ A high-fidelity, performance-optimized landing page built with **Next.js** and *
 ### Desktop, Tablet & Mobile Preview
 The project is engineered to be **Fully Responsive**, ensuring a seamless experience across all device categories.
 
-<img width="1408" height="768" alt="Mockup 1" src="https://github.com/user-attachments/assets/0fa318c5-fa96-4acf-a9c1-b4b8c1b768bf" />
+<img width="1408" height="768" alt="Mockup 1" src="https://github.com/user-attachments/assets/978f341f-0a0e-41de-aaa8-3140a820f33c" />
 
 ---
 
